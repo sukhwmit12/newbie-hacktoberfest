@@ -82,3 +82,4 @@ an example:
  - [AyahRamahi](https://github.com/AyahRamahi)
  - [cbbeard](https://github.com/cbbeard)
  - [ProfessorParadox](https://github.com/ProfessorParadox)
+ - [Sajjalt](https://github.com/sajjalt)
