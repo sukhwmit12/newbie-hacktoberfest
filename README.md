@@ -81,3 +81,4 @@ an example:
  - [Heckerman100](https://github.com/heckerman100)
  - [AyahRamahi](https://github.com/AyahRamahi)
  - [cbbeard](https://github.com/cbbeard)
+ - [ProfessorParadox](https://github.com/ProfessorParadox)
